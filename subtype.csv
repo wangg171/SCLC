@@ -1,0 +1,5 @@
+﻿subtype_id,subtype_name,molecular_feature,biological_feature,related_process,representative_genes,clinical_or_database_value,,source_url
+ST001,SCLC-A,ASCL1 high expression,神经内分泌分化特征明显，是小细胞肺癌中较常见的分子亚型之一,Neuroendocrine differentiation; Lineage maintenance,ASCL1; DLL3; INSM1; CHGA; NCAM1; SYP; ENO2,可作为神经内分泌型SCLC的分型查询入口，并与DLL3等治疗相关靶点连接,,https://pubmed.ncbi.nlm.nih.gov/33482121/
+ST002,SCLC-N,NEUROD1 high expression,与神经分化、细胞状态转换和部分MYC相关增殖状态有关,Neuronal differentiation; MYC-related program; Cell proliferation,NEUROD1; MYC; AURKA; TOP2A; MKI67,可作为MYC相关增殖状态和分型查询入口,,https://pubmed.ncbi.nlm.nih.gov/33482121/
+ST003,SCLC-P,POU2F3 high expression,具有tuft cell样分化特征，神经内分泌特征相对较弱,Tuft cell-like differentiation; Cell fate regulation,POU2F3; SOX2,可作为特殊分化状态相关分型查询入口,,https://pubmed.ncbi.nlm.nih.gov/33482121/
+ST004,SCLC-I,immune-related genes high expression,免疫炎症相关特征较明显，可能伴随较高免疫细胞浸润或抗原呈递相关信号,Immune response; Antigen presentation; Tumor immune microenvironment,CD274; HLA-DRA,可作为免疫炎症型SCLC和免疫治疗相关查询入口,,https://pubmed.ncbi.nlm.nih.gov/33482121/

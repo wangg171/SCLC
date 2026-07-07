@@ -1,0 +1,32 @@
+gene_id,gene_symbol,ncbi_gene_id,description,organism,chromosome,source_database,source_url
+G001,TP53,7157,tumor protein p53,Homo sapiens,17,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/7157
+G002,RB1,5925,RB transcriptional corepressor 1,Homo sapiens,13,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/5925
+G003,MYC,4609,"MYC proto-oncogene, bHLH transcription factor",Homo sapiens,8,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/4609
+G004,MYCL,4610,"MYCL proto-oncogene, bHLH transcription factor",Homo sapiens,1,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/4610
+G005,MYCN,4613,"MYCN proto-oncogene, bHLH transcription factor",Homo sapiens,2,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/4613
+G006,ASCL1,429,achaete-scute family bHLH transcription factor 1,Homo sapiens,12,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/429
+G007,NEUROD1,4760,neuronal differentiation 1,Homo sapiens,2,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/4760
+G008,POU2F3,25833,POU class 2 homeobox 3,Homo sapiens,11,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/25833
+G009,YAP1,10413,Yes1 associated transcriptional regulator,Homo sapiens,11,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/10413
+G010,NOTCH1,4851,notch receptor 1,Homo sapiens,9,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/4851
+G011,PTEN,5728,phosphatase and tensin homolog,Homo sapiens,10,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/5728
+G012,SOX2,6657,SRY-box transcription factor 2,Homo sapiens,3,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/6657
+G013,HES1,3280,hes family bHLH transcription factor 1,Homo sapiens,3,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/3280
+G014,CHGA,1113,chromogranin A,Homo sapiens,14,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/1113
+G015,NCAM1,4684,neural cell adhesion molecule 1,Homo sapiens,11,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/4684
+G016,INSM1,3642,INSM transcriptional repressor 1,Homo sapiens,20,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/3642
+G017,SYP,6855,synaptophysin,Homo sapiens,X,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/6855
+G018,ENO2,2026,enolase 2,Homo sapiens,12,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/2026
+G019,DLL3,10683,delta like canonical Notch ligand 3,Homo sapiens,19,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/10683
+G020,BCL2,596,BCL2 apoptosis regulator,Homo sapiens,18,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/596
+G021,EZH2,2146,enhancer of zeste 2 polycomb repressive complex 2 subunit,Homo sapiens,7,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/2146
+G022,AURKA,6790,aurora kinase A,Homo sapiens,20,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/6790
+G023,SLFN11,91607,schlafen family member 11,Homo sapiens,17,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/91607
+G024,PARP1,142,poly(ADP-ribose) polymerase 1,Homo sapiens,1,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/142
+G025,MCL1,4170,"MCL1 apoptosis regulator, BCL2 family member",Homo sapiens,1,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/4170
+G026,MKI67,4288,marker of proliferation Ki-67,Homo sapiens,10,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/4288
+G027,TOP2A,7153,DNA topoisomerase II alpha,Homo sapiens,17,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/7153
+G028,CDK6,1021,cyclin dependent kinase 6,Homo sapiens,7,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/1021
+G029,CCNE1,898,cyclin E1,Homo sapiens,19,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/898
+G030,CD274,29126,CD274 molecule,Homo sapiens,9,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/29126
+G031,HLA-DRA,3122,"major histocompatibility complex, class II, DR alpha",Homo sapiens,6,NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/3122
