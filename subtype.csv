@@ -1,0 +1,6 @@
+﻿subtype_id,subtype_name,main_marker,marker_type,molecular_feature,biological_feature,related_process,representative_genes,clinical_or_database_value,evidence_source,source_url,remark,collection_method,evidence_scope
+ST001,SCLC-A,ASCL1,转录因子,ASCL1高表达,神经内分泌分化特征明显，是小细胞肺癌中较常见的分子亚型之一,神经内分泌分化；细胞谱系维持,ASCL1; DLL3; INSM1; CHGA; NCAM1; SYP; ENO2,可作为神经内分泌型SCLC的分型查询入口，并与DLL3等治疗相关靶点连接,PubMed 文献整理,https://pubmed.ncbi.nlm.nih.gov/33482121/,核心四分型之一,基于 PubMed 分型文献人工整理,SCLC 分子分型
+ST002,SCLC-N,NEUROD1,转录因子,NEUROD1高表达,与神经分化、细胞状态转换和部分MYC相关增殖状态有关,神经分化；MYC相关程序；细胞增殖,NEUROD1; MYC; AURKA; TOP2A; MKI67,可作为MYC相关增殖状态和分型查询入口,PubMed 文献整理,https://pubmed.ncbi.nlm.nih.gov/33482121/,核心四分型之一,基于 PubMed 分型文献人工整理,SCLC 分子分型
+ST003,SCLC-P,POU2F3,转录因子,POU2F3高表达,具有tuft cell样分化特征，神经内分泌特征相对较弱,tuft cell样分化；细胞命运调控,POU2F3; SOX2,可作为特殊分化状态相关分型查询入口,PubMed 文献整理,https://pubmed.ncbi.nlm.nih.gov/33482121/,核心四分型之一,基于 PubMed 分型文献人工整理,SCLC 分子分型
+ST004,SCLC-I,immune-related genes,免疫或炎症特征,免疫相关基因高表达,免疫炎症相关特征较明显，可能伴随较高免疫细胞浸润或抗原呈递相关信号,免疫应答；抗原呈递；肿瘤免疫微环境,CD274; HLA-DRA,可作为免疫炎症型SCLC和免疫治疗相关查询入口,PubMed 文献整理,https://pubmed.ncbi.nlm.nih.gov/33482121/,核心四分型之一,基于 PubMed 分型文献人工整理,SCLC 分子分型
+ST005,SCLC-Y,YAP1,转录调控因子,YAP1表达,早期研究提出的非神经内分泌相关分型，但独立性存在争议,Hippo通路；转录调控,YAP1; NOTCH1; HES1,可作为历史分型或争议分型记录，不作为核心四分型重点展示,PubMed 文献整理,https://pubmed.ncbi.nlm.nih.gov/33011388/,可选记录；YAP1/SCLC-Y分型存在争议，最终展示以SCLC-A/N/P/I为主,基于 PubMed 分型文献人工整理,SCLC 分子分型

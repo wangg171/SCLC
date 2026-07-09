@@ -1,0 +1,21 @@
+﻿relation_id,source_gene,relation_type,target_entity,target_type,evidence,source_database,source_url,description,collection_method,curation_type,evidence_scope
+R001,ASCL1,定义,SCLC-A,分型,ASCL1高表达用于定义SCLC-A亚型,PubMed 文献整理,https://pubmed.ncbi.nlm.nih.gov/33011388/,ASCL1高表达用于定义SCLC-A亚型,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R002,NEUROD1,定义,SCLC-N,分型,NEUROD1高表达用于定义SCLC-N亚型,PubMed 文献整理,https://pubmed.ncbi.nlm.nih.gov/33011388/,NEUROD1高表达用于定义SCLC-N亚型,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R003,POU2F3,定义,SCLC-P,分型,POU2F3高表达用于定义SCLC-P亚型,PubMed 文献整理,https://pubmed.ncbi.nlm.nih.gov/33011388/,POU2F3高表达用于定义SCLC-P亚型,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R004,CD274,相关,SCLC-I,分型,免疫检查点相关基因与炎症型SCLC特征相关,PubMed 文献整理；NCBI Gene,https://pubmed.ncbi.nlm.nih.gov/33482121/,CD274与免疫炎症型SCLC及免疫检查点相关,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R005,HLA-DRA,相关,SCLC-I,分型,抗原呈递相关基因与免疫炎症特征相关,PubMed 文献整理；NCBI Gene,https://pubmed.ncbi.nlm.nih.gov/33482121/,HLA-DRA与抗原呈递和免疫炎症型SCLC相关,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R006,YAP1,争议性标志物,SCLC-Y,历史分型,YAP1曾用于早期SCLC分型模型，但该分型仍存在争议,PubMed 文献整理,https://pubmed.ncbi.nlm.nih.gov/33011388/,YAP1曾用于SCLC-Y分型，但该分型存在争议,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R007,TP53,失活相关,SCLC,疾病,TP53失活是SCLC常见分子特征之一,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/7157,TP53失活是小细胞肺癌常见基础分子改变之一,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R008,RB1,失活相关,SCLC,疾病,RB1失活是SCLC常见分子特征之一,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/5925,RB1失活与小细胞肺癌细胞周期失控相关,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R009,MYC,相关,SCLC-N,分型,MYC相关增殖程序可能与部分NEUROD1高表达SCLC相关,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/4609,MYC相关增殖特征可与部分SCLC-N状态相关,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R010,DLL3,相关,SCLC-A,分型,DLL3与神经内分泌型SCLC及治疗靶点研究相关,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/10683,DLL3与神经内分泌型SCLC和SCLC-A相关,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R011,INSM1,标志物,neuroendocrine SCLC,表型,INSM1是神经内分泌分化标志物,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/3642,INSM1可作为神经内分泌分化相关标志物,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R012,CHGA,标志物,neuroendocrine SCLC,表型,CHGA是神经内分泌标志基因,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/1113,CHGA是神经内分泌表型相关标志基因,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R013,NCAM1,标志物,neuroendocrine SCLC,表型,NCAM1/CD56是神经内分泌标志物,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/4684,NCAM1又称CD56，与神经内分泌表型相关,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R014,SYP,标志物,neuroendocrine SCLC,表型,SYP是突触小泡相关标志物,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/6855,SYP可作为神经内分泌表型相关标志物,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R015,ENO2,标志物,neuroendocrine SCLC,表型,ENO2/NSE与神经元和神经内分泌表型相关,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/2026,ENO2又称NSE，与神经内分泌表型相关,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R016,SLFN11,相关,DNA damage drug sensitivity,治疗反应,SLFN11与复制压力和DNA损伤应答相关,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/91607,SLFN11与DNA损伤应答和药物敏感性相关,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R017,PARP1,相关,DNA repair and PARP inhibitor research,治疗反应,PARP1参与DNA修复，并与PARP抑制剂相关研究有关,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/142,PARP1与DNA修复和PARP抑制剂相关研究有关,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R018,MKI67,标志物,high proliferation,表型,MKI67是增殖标志物,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/4288,MKI67用于体现肿瘤细胞高度增殖特征,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R019,TOP2A,相关,high proliferation,表型,TOP2A与DNA复制和细胞增殖相关,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/7153,TOP2A与DNA复制和细胞增殖相关,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系
+R020,AURKA,相关,high proliferation,表型,AURKA参与有丝分裂和细胞周期调控,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/6790,AURKA与有丝分裂和细胞周期调控相关,基于数据库记录和 PubMed 文献人工整理,人工整理知识关系,基因-分型、基因-疾病或基因-表型关系

@@ -1,0 +1,32 @@
+﻿annotation_id,gene_symbol,gene_category,sclc_relevance,related_subtype,related_process,knowledge_role,evidence_level,data_source,source_url,remark,collection_method,evidence_scope
+A001,TP53,核心抑癌基因,SCLC中常见失活基因之一，与DNA损伤应答、细胞周期阻滞、凋亡和基因组稳定性维持有关,泛SCLC,DNA损伤应答；细胞周期；细胞凋亡,疾病核心基因,高,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/7157,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A002,RB1,核心抑癌基因,SCLC中常见失活基因之一，与细胞周期G1/S转换调控异常和肿瘤快速增殖有关,泛SCLC,细胞周期；RB通路,疾病核心基因,高,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/5925,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A003,MYC,MYC家族癌基因,与细胞增殖、转录调控、肿瘤侵袭性和部分SCLC亚型状态变化有关,SCLC-N/MYC相关状态,MYC通路；细胞增殖,亚型相关基因,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/4609,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A004,MYCL,MYC家族癌基因,MYC家族成员之一，参与增殖和转录调控，可作为SCLC分子特征补充基因,部分SCLC,MYC通路；转录调控,亚型相关基因,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/4610,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A005,MYCN,MYC家族癌基因,MYC家族成员之一，与细胞增殖、分化和转录调控有关,部分SCLC,MYC通路；细胞增殖,亚型相关基因,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/4613,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A006,ASCL1,分型标志基因,ASCL1高表达用于定义SCLC-A亚型，与神经内分泌分化和细胞谱系维持有关,SCLC-A,神经内分泌分化；细胞谱系维持,分型标志基因,高,PubMed 文献整理；NCBI Gene,https://pubmed.ncbi.nlm.nih.gov/33011388/,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A007,NEUROD1,分型标志基因,NEUROD1高表达用于定义SCLC-N亚型，与神经分化和转录调控有关,SCLC-N,神经分化；转录调控,分型标志基因,高,PubMed 文献整理；NCBI Gene,https://pubmed.ncbi.nlm.nih.gov/33011388/,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A008,POU2F3,分型标志基因,POU2F3高表达用于定义SCLC-P亚型，与tuft cell样分化状态有关,SCLC-P,tuft cell样分化,分型标志基因,高,PubMed 文献整理；NCBI Gene,https://pubmed.ncbi.nlm.nih.gov/33011388/,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A009,YAP1,争议分型相关基因,早期研究曾将YAP1用于SCLC-Y分型，但该分型独立性存在争议,SCLC-Y/争议分型,Hippo通路；转录调控,争议分型记录,中,PubMed 文献整理；NCBI Gene,https://pubmed.ncbi.nlm.nih.gov/33011388/,YAP1相关SCLC-Y分型存在争议，本项目仅作为历史/争议分型记录,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A010,NOTCH1,通路调控基因,Notch信号与SCLC细胞分化状态、神经内分泌特征和肿瘤细胞可塑性有关,部分SCLC/非神经内分泌状态,Notch信号；细胞分化,通路相关基因,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/4851,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A011,PTEN,抑癌基因/通路调控基因,参与PI3K-AKT信号调控，可作为SCLC细胞生长和存活相关通路补充基因,部分SCLC,PI3K-AKT通路；细胞存活,通路相关基因,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/5728,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A012,SOX2,转录因子/分化状态相关基因,与细胞干性、分化状态和肿瘤细胞命运调控有关,部分SCLC,细胞干性；细胞命运调控,分化状态相关基因,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/6657,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A013,HES1,Notch通路下游基因,HES1是Notch信号相关转录调控因子，可用于补充SCLC分化状态和非神经内分泌状态相关内容,部分SCLC,Notch信号；转录抑制,通路相关基因,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/3280,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A014,CHGA,神经内分泌标志物,神经内分泌分泌颗粒相关基因，是神经内分泌表型相关标志物之一,神经内分泌型SCLC/SCLC-A,神经内分泌分化,诊断/表型标志物,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/1113,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A015,NCAM1,神经内分泌标志物,又称CD56，与神经内分泌表型和细胞黏附相关,神经内分泌型SCLC,Cell adhesion；神经内分泌表型,诊断/表型标志物,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/4684,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A016,INSM1,神经内分泌转录因子/诊断标志物,与神经内分泌分化和病理诊断标志物有关,神经内分泌型SCLC/SCLC-A,神经内分泌分化,诊断/分化标志物,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/3642,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A017,SYP,神经内分泌标志物,突触小泡相关蛋白编码基因，是神经内分泌表型常用标志物之一,神经内分泌型SCLC,神经内分泌分化；突触小泡,诊断/表型标志物,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/6855,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A018,ENO2,神经内分泌标志物,又称NSE，与神经元和神经内分泌表型相关，可作为SCLC标志物补充,神经内分泌型SCLC,神经内分泌表型；糖酵解,诊断/表型标志物,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/2026,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A019,DLL3,治疗相关基因/Notch配体,SCLC神经内分泌相关表面标志物和治疗靶点研究对象,SCLC-A/神经内分泌型SCLC,Notch信号；神经内分泌表型,治疗靶点候选,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/10683,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A020,BCL2,凋亡调控/治疗相关基因,与抗凋亡、肿瘤细胞存活和治疗抵抗相关,部分SCLC,细胞凋亡；细胞存活,治疗相关基因,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/596,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A021,EZH2,表观遗传调控基因,与表观遗传调控、转录抑制、肿瘤细胞状态和治疗敏感性变化相关,部分SCLC,表观遗传调控；PRC2复合物,表观遗传相关基因,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/2146,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A022,AURKA,激酶/细胞周期基因,与有丝分裂、细胞周期和肿瘤细胞快速增殖相关,MYC相关/部分SCLC,有丝分裂；细胞周期,增殖相关基因,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/6790,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A023,SLFN11,DNA损伤应答/治疗反应基因,与复制压力、DNA损伤应答和DNA损伤类药物敏感性相关,部分SCLC,DNA损伤应答；复制压力,治疗反应标志物,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/91607,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A024,PARP1,DNA修复/治疗相关基因,参与DNA损伤修复，与PARP抑制剂相关治疗研究有关,部分SCLC,DNA修复；PARP通路,治疗相关基因,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/142,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A025,MCL1,凋亡调控/治疗相关基因,抗凋亡BCL2家族成员，与肿瘤细胞存活和治疗耐受相关,部分SCLC,细胞凋亡；细胞存活,治疗相关基因,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/4170,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A026,MKI67,增殖标志基因,细胞增殖相关标志物，可用于体现SCLC高度增殖特征,泛SCLC,细胞增殖,增殖标志物,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/4288,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A027,TOP2A,细胞周期/增殖相关基因,参与DNA拓扑结构调控和细胞增殖，和肿瘤细胞快速分裂相关,泛SCLC/增殖型特征,DNA复制；细胞增殖,增殖相关基因,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/7153,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A028,CDK6,细胞周期激酶,参与G1/S细胞周期转换，可作为细胞周期调控相关基因,部分SCLC,细胞周期；CDK 通路,通路相关基因,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/1021,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A029,CCNE1,细胞周期调控基因,参与G1/S转换和细胞周期调控，可作为增殖和细胞周期模块补充,部分SCLC,细胞周期；G1/S transition,通路相关基因,中,NCBI Gene；PubMed 文献整理；人工知识整理,https://www.ncbi.nlm.nih.gov/gene/898,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A030,CD274,免疫检查点相关基因,编码PD-L1，和肿瘤免疫微环境、免疫治疗相关内容有关,SCLC-I/免疫炎症型,免疫检查点；肿瘤免疫微环境,免疫治疗相关基因,中,PubMed 文献整理；NCBI Gene,https://pubmed.ncbi.nlm.nih.gov/33482121/,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
+A031,HLA-DRA,免疫炎症/抗原呈递相关基因,与抗原呈递和免疫炎症特征相关，可用于补充SCLC-I亚型的免疫相关信息,SCLC-I/免疫炎症型,抗原呈递；免疫应答,免疫炎症相关基因,中,PubMed 文献整理；NCBI Gene,https://pubmed.ncbi.nlm.nih.gov/33482121/,,基于 NCBI Gene 和 PubMed 文献人工整理,基因基础信息与 SCLC 相关性注释
